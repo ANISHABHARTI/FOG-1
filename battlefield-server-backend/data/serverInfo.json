@@ -1,0 +1,18 @@
+{
+    "serverName": "RC3-BASEMAPS",
+    "mode": "Conquest Large",
+    "map": "Lancang Dam",
+    "players": "60/64",
+    "ping": 104,
+    "tickrate": 60,
+    "settings": {
+      "region": "Europe - DE",
+      "vehicles": true,
+      "minimap": true
+    },
+    "rules": {
+      "tickets": 400,
+      "vehicleSpawnDelay": 25,
+      "bulletDamage": 100
+    }
+  }
